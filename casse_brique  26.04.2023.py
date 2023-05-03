@@ -20,7 +20,7 @@ def aller_droite():
 def aller_gauche():
     barre.backward(30)
  
- 
+print("test")
  
 tr.onkey(aller_droite,"d")
 tr.onkey(aller_gauche,"a")
